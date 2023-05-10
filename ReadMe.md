@@ -1,4 +1,4 @@
-TCP Socket File Transfer Program
+# TCP Socket File Transfer Program
 This program allows you to transfer files between two computers using TCP sockets. It establishes a reliable, bi-directional communication channel that enables the transmission of files over a network.
 
 Prerequisites
